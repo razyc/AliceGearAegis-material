@@ -9,7 +9,7 @@ Photo is some activity photo
  是一些活动图片
  活動写真です
 
-#All material reserves the right of interpretation © Pyramid,Inc. / COLOPL,Inc. 
+###### All material reserves the right of interpretation © Pyramid,Inc. / COLOPL,Inc. 
 
 Make is my personal reinvention photo
  我个人的二次创作的图片
