@@ -1,4 +1,6 @@
 # AliceGearAegis-material
+
+## zh-cn-wiki data 初定类似简中wiki的东西，不知道是否会有后续
 AliceGearAegis photos、sound
 
 Voice is Actress voices
