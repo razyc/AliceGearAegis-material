@@ -3,10 +3,11 @@
 
 ### you can create the Branch and tell me in this LSSUES
 
-## 进度汇报 [![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E5%B7%B2%E5%AE%8C%E6%88%90-green)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
+## 进度汇报 
+[![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E5%B7%B2%E5%AE%8C%E6%88%90-green)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
 
-chr007	薇吉尼亚•G  
-chr016	下落合 桃歌
+- [x] chr007	薇吉尼亚•G  
+- [x] chr016	下落合 桃歌
 
 [![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%9C%AA%E5%AE%8C%E6%88%90-red)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
 - [ ] chr001	吾妻 楓
