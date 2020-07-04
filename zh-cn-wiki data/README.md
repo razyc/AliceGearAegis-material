@@ -1,5 +1,8 @@
+[![](https://github.com/Marcus-Lacia/AliceGearAegis-material/blob/master/zh-cn-wiki%20data/%E4%B8%AD%E9%87%8E%E7%99%BE%E7%A7%91.png)]()
 # AGA-CN-data.xlsx is language：zh-cn data
+
 ## you can edit this xlsx and submit
+
 
 ### you can create the Branch and tell me in this LSSUES
 
