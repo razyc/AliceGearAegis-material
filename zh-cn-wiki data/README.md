@@ -8,9 +8,13 @@
 
 - [x] chr007	薇吉尼亚•G  
 - [x] chr016	下落合 桃歌
+- [x] chr009	相河 爱花
 
 [![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%AD%A3%E5%9C%A8%E8%BF%9B%E8%A1%8C-blue)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
-- [ ] chr009	相河 爱花
+暂无
+
+[![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0-brightgreen)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
+- [x] chr009	相河 爱花
 
 [![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%9C%AA%E5%AE%8C%E6%88%90-red)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
 - [ ] chr001	吾妻 楓
