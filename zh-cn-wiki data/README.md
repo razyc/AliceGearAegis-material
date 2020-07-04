@@ -8,6 +8,8 @@
 
 - [x] chr007	薇吉尼亚•G  
 - [x] chr016	下落合 桃歌
+[![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%AD%A3%E5%9C%A8%E8%BF%9B%E8%A1%8C-blue)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
+- [ ] chr009	相河 爱花
 
 [![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%9C%AA%E5%AE%8C%E6%88%90-red)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
 - [ ] chr001	吾妻 楓
@@ -17,7 +19,6 @@
 - [ ] chr005	比良坂 夜露
 - [ ] chr006	百科 文嘉
 - [ ] chr008	藤野 弥生
-- [ ] chr009	相河 爱花
 - [ ] chr010	一条 绫香
 - [ ] chr011	四谷 裕美
 - [ ] chr012	二子玉 舞
