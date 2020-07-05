@@ -18,8 +18,8 @@
 [![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%AD%A3%E5%9C%A8%E8%BF%9B%E8%A1%8C-blue)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
 
 - [ ] chr015	万场 盟华
-- [ ] chr030	宇佐元 杏奈
 - [ ] chr029	蛙阪 来弥 
+- [ ] chr030	宇佐元 杏奈
 
 [![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0-brightgreen)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
 
