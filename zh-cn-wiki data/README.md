@@ -4,10 +4,7 @@
 # AGA参考资料.xlsx is reference material
 
 ### this data look like a wiki，but everything is just start
-
 ## you can edit this xlsx and submit
-
-
 ### you can create the Branch and tell me in this LSSUES
 
 ## 进度汇报 
