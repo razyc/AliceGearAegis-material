@@ -1,6 +1,8 @@
 [![](https://github.com/Marcus-Lacia/AliceGearAegis-material/blob/master/zh-cn-wiki%20data/%E4%B8%AD%E9%87%8E%E7%99%BE%E7%A7%91.png)]()
 ###### 名字初定
-# AGA-CN-data.xlsx is language：zh-cn   
+# AGA-CN-data.xlsx is language：zh-cn   type：wiki
+# AGA参考资料.xlsx is reference material
+
 ### this data look like a wiki，but everything is just start
 
 ## you can edit this xlsx and submit
@@ -14,16 +16,17 @@
 - [x] chr007	薇吉尼亚•G  
 - [x] chr016	下落合 桃歌
 - [x] chr009	相河 爱花
+- [x] chr030	宇佐元 杏奈
 
 [![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%AD%A3%E5%9C%A8%E8%BF%9B%E8%A1%8C-blue)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
 
 - [ ] chr015	万场 盟华
 - [ ] chr029	蛙阪 来弥 
-- [ ] chr030	宇佐元 杏奈
 
 [![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0-brightgreen)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
 
 - [x] chr009	相河 爱花
+- [x] chr030	宇佐元 杏奈
 
 [![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%9C%AA%E5%AE%8C%E6%88%90-red)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
 - [ ] chr001	吾妻 楓
