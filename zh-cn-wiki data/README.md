@@ -83,3 +83,7 @@
 - [ ] chr614	莎朵霓
 - [ ] chr618	霞
 - [ ] chr619	玛莉・罗丝
+
+# 附
+
+![Actress%20list630.png Actress%20list630.png](https://raw.githubusercontent.com/Marcus-Lacia/AliceGearAegis-material/master/Make/Actress%20list630.png "") 
