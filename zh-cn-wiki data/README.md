@@ -20,7 +20,11 @@
 
 [![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%AD%A3%E5%9C%A8%E8%BF%9B%E8%A1%8C-blue)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
 
-
+- [ ] chr004	兼志谷 星
+- [ ] chr013	小芦 睦海
+- [ ] chr010	一条 绫香
+- [ ] chr038	桑蒂•R
+- [ ] chr006	百科 文嘉
 
 [![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0-brightgreen)](https://github.com/Marcus-Lacia/AliceGearAegis-material) [![](https://img.shields.io/badge/%E6%97%B6%E9%97%B4-7%E5%A4%A9%E5%86%85-brightgreen)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
 
@@ -33,16 +37,11 @@
 - [ ] chr001	吾妻 楓
 - [ ] chr002	日向 凛
 - [ ] chr003	小鸟游 怜 
-- [ ] chr004	兼志谷 星
 - [ ] chr005	比良坂 夜露
-- [ ] chr006	百科 文嘉
 - [ ] chr008	藤野 弥生
-- [ ] chr010	一条 绫香
 - [ ] chr011	四谷 裕美
 - [ ] chr012	二子玉 舞
-- [ ] chr013	小芦 睦海
 - [ ] chr014	山野 熏子
-- [ ] chr016	下落合 桃歌
 - [ ] chr017	依城 惠理
 - [ ] chr019	新谷 芹菜
 - [ ] chr020	文岛 明日翔
@@ -59,7 +58,6 @@
 - [ ] chr034	琴村 天音
 - [ ] chr035	米娅•V 
 - [ ] chr036	千岛 美幸
-- [ ] chr038	桑蒂•R
 - [ ] chr039	大关 小结
 - [ ] chr040	王 红花
 - [ ] chr044	雪莉•O
