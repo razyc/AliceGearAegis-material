@@ -1,5 +1,5 @@
 [![](https://github.com/Marcus-Lacia/AliceGearAegis-material/blob/master/zh-cn-wiki%20data/%E4%B8%AD%E9%87%8E%E7%99%BE%E7%A7%91.png)]()
-###### 名字初定
+###### 名字初定；后期如果全部完成将设立网页
 # AGA-CN-data.xlsx is language：zh-cn   type：wiki
 # AGA参考资料.xlsx is reference material
 
