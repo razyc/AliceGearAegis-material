@@ -27,6 +27,7 @@
 - [x] chr009	相河 爱花
 - [x] chr030	宇佐元 杏奈
 - [x] chr029	蛙阪 来弥 
+- [x] chr015	万场 盟华
 
 [![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%9C%AA%E5%AE%8C%E6%88%90-red)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
 - [ ] chr001	吾妻 楓
