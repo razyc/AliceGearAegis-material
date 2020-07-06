@@ -20,7 +20,7 @@
 - [ ] chr015	万场 盟华
 - [ ] chr029	蛙阪 来弥 
 
-[![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0-brightgreen)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
+[![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0-brightgreen)](https://github.com/Marcus-Lacia/AliceGearAegis-material) [![](https://img.shields.io/badge/%E6%97%B6%E9%97%B4-7%E5%A4%A9%E5%86%85-brightgreen)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
 
 - [x] chr009	相河 爱花
 - [x] chr030	宇佐元 杏奈
