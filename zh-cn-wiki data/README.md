@@ -16,7 +16,7 @@
 - [x] chr015	万场 盟华
 - [x] chr016	下落合 桃歌
 - [x] chr029	蛙阪 来弥 
-- [x] chr030	宇佐元 杏奈
+- [x] chr030	宇佐元 杏奈 +
 
 
 [![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E6%AD%A3%E5%9C%A8%E8%BF%9B%E8%A1%8C-blue)](https://github.com/Marcus-Lacia/AliceGearAegis-material)
